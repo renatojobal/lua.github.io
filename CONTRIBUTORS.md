@@ -7,4 +7,5 @@ Here are the list of some persons that help me a lot to build this app.
 - Bryan Pilco (Apartado)
 - Josué Sebastian
 - Antse Cáceres
+- Gerson Santos
 
