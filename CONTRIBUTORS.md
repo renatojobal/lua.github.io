@@ -2,9 +2,9 @@
 
 Here are the list of some persons that help me a lot to build this app.
 
-- Richard Körber
-- Andres Palacios
-- Bryan Pilco (Apartado)
+- Richard Körber (creator of the library [commons-suncalc](https://github.com/shred/commons-suncalc))
+- Andres Palacios (music creator)
+- Bryan Pilco
 - Josué Sebastian
 - Antse Cáceres
 - Gerson Santos
