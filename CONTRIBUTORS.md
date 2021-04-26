@@ -16,3 +16,4 @@ Here are the list of some persons that help me a lot to build this app.
 - Joseph Balcázar
 - Debora Borges
 - Fernanda Pinheiro
+- Rayana Machado
