@@ -18,3 +18,4 @@ Here are the list of some persons that help me a lot to build this app.
 - Debora Borges
 - Fernanda Pinheiro
 - Rayana Machado
+- [Israel ALejandro](https://www.behance.net/israalejandrox)
